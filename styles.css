@@ -12,7 +12,7 @@ nav {
     padding: 10px 0;
     text-align: center;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -28,7 +28,7 @@ nav ul li a {
     color: white;
     text-decoration: none;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 header .banner {
     background-image: url('PHOTO FOR BANNER');
     background-size: cover;
@@ -47,7 +47,7 @@ header .banner p {
     font-size: 1.5em;
     margin: 10px 0 0;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 .container {
     display: flex;
     justify-content: space-around;
@@ -70,7 +70,7 @@ header .banner p {
     border: 1px solid #ddd;
     border-radius: 5px;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 .card {
     background-color: white;
     border: 1px solid #ddd;
@@ -87,7 +87,7 @@ header .banner p {
     border-bottom: 1px solid #ddd;
     border-radius: 5px 5px 0 0;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 .card h2 {
     font-size: 1.5em;
     margin: 10px 0;
@@ -98,7 +98,7 @@ header .banner p {
     font-size: 1em;
     color: #666;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 .card .buy-now {
     background-color: #007bff;
     border: none;
@@ -114,7 +114,7 @@ header .banner p {
 .card .buy-now:hover {
     background-color: #0056b3;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 .card:hover {
     transform: translateY(-10px);
 }
@@ -126,7 +126,7 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 footer .footer-content {
     margin-bottom: 20px;
 }
@@ -134,7 +134,7 @@ footer .footer-content {
 footer .footer-content p {
     margin: 0;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 footer .social-media a {
     color: white;
     margin: 0 10px;
@@ -146,7 +146,7 @@ footer .footer-nav a {
     margin: 0 10px;
     text-decoration: none;
 }
-
+/* CREATED BY KAVYA TRIVEDI */
 @media (max-width: 768px) {
     .filter input {
         width: 80%;
